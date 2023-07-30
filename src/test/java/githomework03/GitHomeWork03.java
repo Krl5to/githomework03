@@ -10,6 +10,7 @@ import static com.codeborne.selenide.Selenide.open;
 
 public class GitHomeWork03 {
 
+    //second comment for conflict
     @BeforeAll
     static void beforeAll() {
         Configuration.pageLoadStrategy = "eager";
